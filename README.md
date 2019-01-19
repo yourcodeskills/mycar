@@ -1,2 +1,2 @@
 # mycar
-Online Banking - web application.
+Taxi service - web application.
